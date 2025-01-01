@@ -1,0 +1,5 @@
+
+let firstName = "Ajit";
+let lastName = "Kalyankar";
+
+let fullName = console.log("Hello"+","+firstName + lastName+"!");

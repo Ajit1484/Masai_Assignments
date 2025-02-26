@@ -5,5 +5,5 @@ let student = {
   course: "Computer Science"
 };
 
-let str = JSON.stringify(student);
-console.log(str);
+let res = JSON.stringify(student);
+console.log(res);
